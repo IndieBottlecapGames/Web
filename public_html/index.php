@@ -110,7 +110,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col l6 s12">
-					<img class="footer-img" src="img/indiebottlecap.png" /> <h5 class="white-text">IndieBottlecapGames.com</h5>
+					<img class="footer-img" src="img/indie-logo.png" /> <h5 class="white-text">IndieBottlecapGames.com</h5>
 					<p class="grey-text text-lighten-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus et justo id porta. Morbi eu eleifend metus.</p>
 				</div>
 				<div class="col l4 offset-l2 s12">
