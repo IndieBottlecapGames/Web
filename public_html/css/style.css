@@ -8,6 +8,7 @@
 
 .promo div {
     margin-top: 38%;
+    font-family: "Roboto", sans-serif;
 }
 
 #promo-wacky {
@@ -29,4 +30,34 @@
     width: 100px;
     padding: 3px;
     margin-top: 13px;
+}
+
+.icon-discord {
+    background-size: 100%;
+    background-size: contain;
+    background-position: center center;
+    vertical-align: top;
+    background-image: url(../img/Phochs/Ideas/Discord.png);
+    background-repeat: no-repeat;
+    height: 250px;
+}
+
+.icon-twitch {
+    background-size: 100%;
+    background-size: contain;
+    background-position: center center;
+    vertical-align: top;
+    background-image: url(../img/Phochs/Ideas/Twitch.png);
+    background-repeat: no-repeat;
+    height: 250px;
+}
+
+.icon-github {
+    background-size: 100%;
+    background-size: contain;
+    background-position: center center;
+    vertical-align: top;
+    background-image: url(../img/Phochs/Ideas/Github.png);
+    background-repeat: no-repeat;
+    height: 250px;
 }

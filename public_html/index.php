@@ -64,11 +64,14 @@
                     In ultricies quam augue, ac scelerisque sapien sodales et. Ut metus neque, efficitur vitae volutpat vel, tristique at tellus. Sed varius neque ac ante maximus fringilla. Aenean sit amet ornare odio, quis dapibus mi. Ut molestie tincidunt fringilla. Vivamus condimentum elementum gravida. Mauris tristique, quam in cursus consectetur, magna ante mollis lectus, id dictum lectus diam in mi. Duis rutrum massa lacus, ac consequat augue lacinia ut. In finibus quam sed erat tristique, a interdum purus pellentesque. Vivamus varius vestibulum massa.
                 </p>
                 <div class="row">
-                    <div class="col m4">
-                        <img src="img/Phochs/Ideas/Discord.png" width="auto" />
+                    <div class="col m4 icon-discord">
+                        &nbsp;
                     </div>
-                    <div class="col m4">
-                        <img src="img/Phochs/Ideas/Discord.png" />
+                    <div class="col m4 icon-twitch">
+                        &nbsp;
+                    </div>
+                    <div class="col m4 icon-github">
+                        &nbsp;
                     </div>
                 </div>
                 <div class="divider grey darken-2"></div>
