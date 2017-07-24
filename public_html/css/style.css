@@ -1,0 +1,31 @@
+.parallax-container {
+	height: 200px;
+}
+
+.promo {
+    cursor: pointer;
+}
+
+.promo div {
+    margin-top: 38%;
+}
+
+#promo-wacky {
+    background-size: cover;
+    background: url(../img/games/wacky_races.png) no-repeat center;
+}
+
+#promo-skillshot {
+    background-size: cover;
+    background: url(../img/games/skillshot.jpg) no-repeat center;
+}
+
+.member img {
+    border: 3px solid #263238;
+}
+
+.footer-img {
+    float: left;
+    width: 100px;
+    padding: 3px;
+}
