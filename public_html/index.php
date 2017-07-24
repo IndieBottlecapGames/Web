@@ -63,36 +63,41 @@
                 </p><p>
                     In ultricies quam augue, ac scelerisque sapien sodales et. Ut metus neque, efficitur vitae volutpat vel, tristique at tellus. Sed varius neque ac ante maximus fringilla. Aenean sit amet ornare odio, quis dapibus mi. Ut molestie tincidunt fringilla. Vivamus condimentum elementum gravida. Mauris tristique, quam in cursus consectetur, magna ante mollis lectus, id dictum lectus diam in mi. Duis rutrum massa lacus, ac consequat augue lacinia ut. In finibus quam sed erat tristique, a interdum purus pellentesque. Vivamus varius vestibulum massa.
                 </p>
-                <img src="img/discord.jpg" height="70" />
-                <img src="img/twitch.jpeg" height="70" />
-                <img src="img/github.png" height="70" />
+                <div class="row">
+                    <div class="col m4">
+                        <img src="img/Phochs/Ideas/Discord.png" width="auto" />
+                    </div>
+                    <div class="col m4">
+                        <img src="img/Phochs/Ideas/Discord.png" />
+                    </div>
+                </div>
                 <div class="divider grey darken-2"></div>
                 <h3>Team</h3>
                 <div class="row">
                     <div class="col s3 center member">
                         <img class="circle" src="img/team/user.png" width="120" />
                         <h5>Arachnenet</h5>
-                        <h6 class="grey-text text-lighten-2">(Audio engineer)</h6>
+                        <h6 class="grey-text text-lighten-2">(Noise maker)</h6>
                     </div>
                     <div class="col s3 center member">
                         <img class="circle" src="img/team/user.png" width="120" />
                         <h5>Mythiril</h5>
-                        <h6 class="grey-text text-lighten-2">(Story writer)</h6>
+                        <h6 class="grey-text text-lighten-2">(Gibberish penman)</h6>
                     </div>
                     <div class="col s3 center member">
                         <img class="circle" src="img/team/user.png" width="120" />
                         <h5>phochs</h5>
-                        <h6 class="grey-text text-lighten-2">(Web designer)</h6>
+                        <h6 class="grey-text text-lighten-2">(Internet nerd)</h6>
                     </div>
                     <div class="col s3 center member">
                         <img class="circle" src="img/team/user.png" width="120" />
                         <h5>Sagoza</h5>
-                        <h6 class="grey-text text-lighten-2">(Project lead/artist)</h6>
+                        <h6 class="grey-text text-lighten-2">(Micromanager/Colorizer)</h6>
                     </div>
                     <div class="col s3 center member">
                         <img class="circle" src="img/team/user.png" width="120" />
                         <h5>Silver</h5>
-                        <h6 class="grey-text text-lighten-2">(Artist)</h6>
+                        <h6 class="grey-text text-lighten-2">(Colorizer)</h6>
                     </div>
                 </div>
             </div>
@@ -103,7 +108,7 @@
 			<div class="row">
 				<div class="col l6 s12">
 					<img class="footer-img" src="img/indiebottlecap.png" /> <h5 class="white-text">IndieBottlecapGames.com</h5>
-					<p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+					<p class="grey-text text-lighten-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus et justo id porta. Morbi eu eleifend metus.</p>
 				</div>
 				<div class="col l4 offset-l2 s12">
 					<h5 class="white-text">Links</h5>
